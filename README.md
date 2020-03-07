@@ -30,6 +30,7 @@
 2. 安装**UCAS-SessionTimeoutHelper**
 
     - 方法一：打开[UCAS-SessionTimeoutHelper脚本安装网页]( https://greasyfork.org/zh-CN/scripts/397403-ucas-sessiontimeouthelper )进行安装
-    - 方法二：点击浏览器扩展栏中油猴脚本的图标（一个黑乎乎的正方形，里面有两个小圆形）$\rightarrow$ 管理面板$\rightarrow$ 点击加号，创建用户自定义的脚本$\rightarrow$ 从项目的**UCAS-SessionTimeoutHelper.js**中复制代码到网页的代码编辑器中$\rightarrow$ ctrl+s保存即可
+    - 方法二：点击浏览器扩展栏中油猴脚本的图标（一个黑乎乎的正方形，里面有两个小圆形）→ 定义的脚本 → 从项目的**UCAS-SessionTimeoutHelper.js**中复制代码到网页的代码编辑器中 → ctrl+s保存即可
 
     
+
